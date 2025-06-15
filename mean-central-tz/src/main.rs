@@ -1,3 +1,4 @@
+use std::env;
 use std::fs::File;
 use std::path::Path;
 use geo_types::Coord;
@@ -10,7 +11,6 @@ struct Country {
     mean_lon: f64,
 }
 
-/// Computes total population and weighted mean coordinate from a GeoTIFF file.
 fn compute_population_center(path: &str) -> Result<Country, Box<dyn std::error::Error>> {
     let file = File::open(Path::new(path))?;
     let geo = GeoTiff::read(file)?;
@@ -56,7 +56,8 @@ fn compute_population_center(path: &str) -> Result<Country, Box<dyn std::error::
 }
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let result = compute_population_center("geotiff.tif")?;
+    let args: Vec<_> = env::args().collect();
+    let result = compute_population_center(&args[1])?;
     println!("{:?}", result);
     Ok(())
 }
