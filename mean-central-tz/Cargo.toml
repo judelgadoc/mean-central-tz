@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+gdal = "0.18.0"
 geo-types = "0.7.16"
 geotiff = "0.1.0"

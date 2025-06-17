@@ -1,8 +1,7 @@
-use std::env;
-use std::fs::File;
+use gdal::Dataset;
 use std::path::Path;
-use geo_types::Coord;
-use geotiff::GeoTiff;
+use std::env;
+
 
 #[derive(Debug)]
 struct Country {
@@ -11,54 +10,58 @@ struct Country {
     mean_lon: f64,
 }
 
-fn compute_population_center(path: &str) -> Result<Country, Box<dyn std::error::Error>> {
-    let file = File::open(Path::new(path))?;
-    let geo = GeoTiff::read(file)?;
+fn process_geotiff(path: &Path) -> Result<Country, Box<dyn std::error::Error>> {
+    let dataset = Dataset::open(path)?;
+    let band = dataset.rasterband(1)?;
+    let (width, height) = band.size();
 
-    let width = geo.raster_width as usize;
-    let height = geo.raster_height as usize;
-
-    let extent = geo.model_extent();
-    let min_x = extent.min().x;
-    let max_y = extent.max().y;
-
-    let scale_x = (extent.max().x - extent.min().x) / (width as f64);
-    let scale_y = (extent.max().y - extent.min().y) / (height as f64);
+    let geo_transform = dataset.geo_transform()?;
 
     let mut total_population = 0.0;
-    let mut weighted_lon = 0.0;
-    let mut weighted_lat = 0.0;
+    let mut mean_lon = 0.0;
+    let mut mean_lat = 0.0;
+
+    let buffer = band.read_as::<f32>(
+        (0, 0),
+        (width, height),
+        (width, height),
+        None,
+    )?;
+
+    let data = buffer.data();
+    let nodata_value = band.no_data_value();
 
     for j in 0..height {
         for i in 0..width {
-            let lon = min_x + i as f64 * scale_x;
-            let lat = max_y - j as f64 * scale_y;
-            let coord = Coord { x: lon, y: lat };
+            let idx = (j * width + i) as usize;
+            let value = data[idx] as f64;
 
-            let value: f64 = geo.get_value_at(&coord, 0).unwrap();
-            if value >= 0.0 {
-                total_population += value;
-                weighted_lon += lon * value;
-                weighted_lat += lat * value;
+            if value < 0.0 || nodata_value.map_or(false, |nd| (value - nd).abs() < std::f64::EPSILON) {
+                continue;
             }
+
+            let lon = geo_transform[0] + (i as f64) * geo_transform[1];
+            let lat = geo_transform[3] + (j as f64) * geo_transform[5];
+
+            total_population += value;
+            mean_lon += lon * value;
+            mean_lat += lat * value;
         }
     }
 
-    if total_population == 0.0 {
-        Err("Total population is zero, can't compute mean coordinates.".into())
-    } else {
-        Ok(Country {
-            total_population,
-            mean_lat: weighted_lat / total_population,
-            mean_lon: weighted_lon / total_population,
-        })
-    }
+
+    let country = Country {
+        total_population,
+        mean_lon: mean_lon / total_population,
+        mean_lat: mean_lat / total_population,
+    };
+
+    Ok(country)
 }
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<_> = env::args().collect();
-    let result = compute_population_center(&args[1])?;
+    let result = process_geotiff(Path::new(&args[1]))?;
     println!("{:?}", result);
     Ok(())
 }
-
