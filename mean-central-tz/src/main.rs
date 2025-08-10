@@ -73,7 +73,7 @@ fn process_file() -> Result<(), Box<dyn std::error::Error>> {
 fn process_dir() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<_> = env::args().collect();
     let path = &args[1];
-    let mut output = File::create("output.txt")?;
+    let mut output = File::create(&args[2])?;
 
     let mut total_population = 0.0;
     let mut weighted_lat = 0.0;
@@ -97,6 +97,7 @@ fn process_dir() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
     println!("Population-weighted mean coordinate: {:.15}, {:.15} for a total population of {:.0}", weighted_lat/total_population, weighted_lon/total_population, total_population);
+    writeln!(output, "all_countries;{:.0};{:.15};{:.15}", total_population, weighted_lat/total_population, weighted_lon/total_population)?;
     Ok(())
 }
 
