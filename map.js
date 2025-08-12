@@ -48,7 +48,8 @@ var map = L.map('map', {
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
-    attribution: '&copy; OpenStreetMap contributors'
+    attribution: '&copy; OpenStreetMap contributors',
+    noWrap: false
 }).addTo(map);
 
 
@@ -92,7 +93,7 @@ Promise.all(
     pointToLayer: (feature, latlng) => L.marker(latlng, { icon: purpleIcon })
       .bindPopup(`
                     <b>${feature.properties.country}</b><br>
-                    Population: ${feature.properties.population}<br>
+                    Population: ${feature.properties.population.toLocaleString('en-US')}<br>
                     <br>${latlng.lat.toFixed(7)}, ${latlng.lng.toFixed(7)}
                 `)
   }), {
@@ -105,7 +106,7 @@ Promise.all(
     pointToLayer: (feature, latlng) => L.marker(latlng, { icon: grayIcon })
       .bindPopup(`
                     <b>${feature.properties.country}</b><br>
-                    Population: ${feature.properties.population}<br>
+                    Population: ${feature.properties.population.toLocaleString('en-US')}<br>
                     <br>${latlng.lat.toFixed(7)}, ${latlng.lng.toFixed(7)}
                 `)
   }), {
