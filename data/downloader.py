@@ -7,9 +7,20 @@ from rich.progress import Progress, BarColumn, DownloadColumn, TextColumn, TimeR
 
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36'
-    }
-
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.6',
+    'Connection': 'keep-alive',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'same-origin',
+    'Sec-Fetch-User': '?1',
+    'Sec-GPC': '1',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+    'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Brave";v="138"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Linux"',
+}
 
 def list_folders(url):
     r = requests.get(url, headers=HEADERS)
@@ -42,7 +53,7 @@ def download_file(url, tif_file, download_dir):
 def download_countries(base_url, download_dir):
     countries = list_folders(base_url)
     print(f"Found countries: {countries}")
-    time.sleep(5)
+    time.sleep(8)
 
     for country in countries:
         country_lower = country.lower()
@@ -62,7 +73,7 @@ def download_countries(base_url, download_dir):
 
         print(f"\nChecking {constrained_url}")
         tif_files = list_tif_files(constrained_url)
-        time.sleep(5)
+        time.sleep(8)
         if not tif_files:
             print(f"No .tif files found for {country}")
             continue
@@ -76,12 +87,12 @@ def download_countries(base_url, download_dir):
             print(f"Downloading {file_url}")
             try:
                 download_file(file_url, tif_file, download_dir)
-                time.sleep(random.uniform(12,15))
+                time.sleep(8)
             except Exception as e:
                 print(f"Failed to download {file_url}: {e}")
 
 
-for i in range(2015,2020):
+for i in range(2018,2020):
     BASE_URL = f"https://data.worldpop.org/GIS/Population/Global_2015_2030/R2024B/{i}/"
     DOWNLOAD_DIR = f"1km/{i}"
     os.makedirs(DOWNLOAD_DIR, exist_ok=True)
