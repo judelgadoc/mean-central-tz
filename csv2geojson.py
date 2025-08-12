@@ -9,7 +9,7 @@ pycountry.countries.add_entry(alpha_2="XK", alpha_3="XKX", name="Kosovo", numeri
 
 def get_country_from_file(country_file, year):
     if country_file == "all_countries":
-        return f"All Countries 🗺️ ({year})"
+        return f"All Countries 🌏 ({year})"
     else:
         aux = pycountry.countries.get(alpha_3=country_file[:3])
         return f"{aux.name} {aux.flag} ({year})"

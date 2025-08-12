@@ -1,0 +1,3393 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99736678098995,
+          12.517066289240232
+        ]
+      },
+      "properties": {
+        "country": "Aruba 🇦🇼 (2020)",
+        "population": 107381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54803265326066,
+          34.583330724107356
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan 🇦🇫 (2020)",
+        "population": 38429949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9520634944507,
+          -10.829996411402288
+        ]
+      },
+      "properties": {
+        "country": "Angola 🇦🇴 (2020)",
+        "population": 32920508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.06520109608672,
+          18.216054339215255
+        ]
+      },
+      "properties": {
+        "country": "Anguilla 🇦🇮 (2020)",
+        "population": 14799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.992871567457907,
+          60.160840854983384
+        ]
+      },
+      "properties": {
+        "country": "Åland Islands 🇦🇽 (2020)",
+        "population": 30012
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.85473872749194,
+          41.193988805947285
+        ]
+      },
+      "properties": {
+        "country": "Albania 🇦🇱 (2020)",
+        "population": 2878203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.534214226880977,
+          42.52284709272218
+        ]
+      },
+      "properties": {
+        "country": "Andorra 🇦🇩 (2020)",
+        "population": 77148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.26093507341287,
+          24.888474638539858
+        ]
+      },
+      "properties": {
+        "country": "United Arab Emirates 🇦🇪 (2020)",
+        "population": 9358093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37657740171441,
+          -32.906321293528784
+        ]
+      },
+      "properties": {
+        "country": "Argentina 🇦🇷 (2020)",
+        "population": 45116149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.577811204640355,
+          40.28577773508382
+        ]
+      },
+      "properties": {
+        "country": "Armenia 🇦🇲 (2020)",
+        "population": 2900488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.70583988453384,
+          -14.30867664060213
+        ]
+      },
+      "properties": {
+        "country": "American Samoa 🇦🇸 (2020)",
+        "population": 49854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.82226221424291,
+          17.11798323495126
+        ]
+      },
+      "properties": {
+        "country": "Antigua and Barbuda 🇦🇬 (2020)",
+        "population": 91591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.79150712361331,
+          -32.97726797941822
+        ]
+      },
+      "properties": {
+        "country": "Australia 🇦🇺 (2020)",
+        "population": 25655914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.692064044646918,
+          47.78848089222774
+        ]
+      },
+      "properties": {
+        "country": "Austria 🇦🇹 (2020)",
+        "population": 8901948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.315866937473864,
+          40.328925752580865
+        ]
+      },
+      "properties": {
+        "country": "Azerbaijan 🇦🇿 (2020)",
+        "population": 10153701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.82507328380193,
+          -3.255377479084305
+        ]
+      },
+      "properties": {
+        "country": "Burundi 🇧🇮 (2020)",
+        "population": 12441305
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.431267208411264,
+          50.84843055182825
+        ]
+      },
+      "properties": {
+        "country": "Belgium 🇧🇪 (2020)",
+        "population": 11524062
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.299512794548623,
+          8.336424481359405
+        ]
+      },
+      "properties": {
+        "country": "Benin 🇧🇯 (2020)",
+        "population": 12898338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.21713522392803,
+          13.270512190722016
+        ]
+      },
+      "properties": {
+        "country": "Bonaire, Sint Eustatius and Saba 🇧🇶 (2020)",
+        "population": 26040
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.889231669746133,
+          12.251621961996323
+        ]
+      },
+      "properties": {
+        "country": "Burkina Faso 🇧🇫 (2020)",
+        "population": 21219333
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22721844708008,
+          23.93116386000683
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh 🇧🇩 (2020)",
+        "population": 165621621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.00268961651627,
+          42.72673448059977
+        ]
+      },
+      "properties": {
+        "country": "Bulgaria 🇧🇬 (2020)",
+        "population": 6951197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.55863760592513,
+          26.18706039336424
+        ]
+      },
+      "properties": {
+        "country": "Bahrain 🇧🇭 (2020)",
+        "population": 1478017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4337562466588,
+          25.24398353229405
+        ]
+      },
+      "properties": {
+        "country": "Bahamas 🇧🇸 (2020)",
+        "population": 395541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.913378896094564,
+          44.32691718052577
+        ]
+      },
+      "properties": {
+        "country": "Bosnia and Herzegovina 🇧🇦 (2020)",
+        "population": 3324021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.83735784587322,
+          17.90938886515403
+        ]
+      },
+      "properties": {
+        "country": "Saint Barthélemy 🇧🇱 (2020)",
+        "population": 10405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.808963701159747,
+          53.539455550486615
+        ]
+      },
+      "properties": {
+        "country": "Belarus 🇧🇾 (2020)",
+        "population": 9400170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5752472297094,
+          17.427887002887445
+        ]
+      },
+      "properties": {
+        "country": "Belize 🇧🇿 (2020)",
+        "population": 388282
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.78278868150586,
+          32.30339289634068
+        ]
+      },
+      "properties": {
+        "country": "Bermuda 🇧🇲 (2020)",
+        "population": 64240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5570942371478,
+          -17.56370463560004
+        ]
+      },
+      "properties": {
+        "country": "Bolivia, Plurinational State of 🇧🇴 (2020)",
+        "population": 11752693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.82640129831518,
+          -17.038746884798247
+        ]
+      },
+      "properties": {
+        "country": "Brazil 🇧🇷 (2020)",
+        "population": 208126925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.571706607714454,
+          13.144358556751829
+        ]
+      },
+      "properties": {
+        "country": "Barbados 🇧🇧 (2020)",
+        "population": 281442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.80686352403985,
+          4.858531520793823
+        ]
+      },
+      "properties": {
+        "country": "Brunei Darussalam 🇧🇳 (2020)",
+        "population": 445077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.08589800335432,
+          27.26146281475365
+        ]
+      },
+      "properties": {
+        "country": "Bhutan 🇧🇹 (2020)",
+        "population": 767293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.767243074845034,
+          -23.026492642180923
+        ]
+      },
+      "properties": {
+        "country": "Botswana 🇧🇼 (2020)",
+        "population": 2348752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.417392801186775,
+          5.449455374462938
+        ]
+      },
+      "properties": {
+        "country": "Central African Republic 🇨🇫 (2020)",
+        "population": 4960543
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22607561788651,
+          46.88384264608497
+        ]
+      },
+      "properties": {
+        "country": "Canada 🇨🇦 (2020)",
+        "population": 38018483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.946468642775536,
+          47.02857641589182
+        ]
+      },
+      "properties": {
+        "country": "Switzerland 🇨🇭 (2020)",
+        "population": 8608426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.32919909154299,
+          -33.97080133244375
+        ]
+      },
+      "properties": {
+        "country": "Chile 🇨🇱 (2020)",
+        "population": 19331414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5597951417029,
+          32.06322588611259
+        ]
+      },
+      "properties": {
+        "country": "China 🇨🇳 (2020)",
+        "population": 1425435844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.30668293502722,
+          6.698226386792194
+        ]
+      },
+      "properties": {
+        "country": "Côte d'Ivoire 🇨🇮 (2020)",
+        "population": 28557909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.90032114071571,
+          6.370768521963934
+        ]
+      },
+      "properties": {
+        "country": "Cameroon 🇨🇲 (2020)",
+        "population": 25857309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.002752687921667,
+          -3.257922951159363
+        ]
+      },
+      "properties": {
+        "country": "Congo, The Democratic Republic of the 🇨🇩 (2020)",
+        "population": 94412756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.330746629892953,
+          -3.42216976321273
+        ]
+      },
+      "properties": {
+        "country": "Congo 🇨🇬 (2020)",
+        "population": 5683280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.56604865044847,
+          -20.626485621766328
+        ]
+      },
+      "properties": {
+        "country": "Cook Islands 🇨🇰 (2020)",
+        "population": 15892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83766822612004,
+          6.054210694573085
+        ]
+      },
+      "properties": {
+        "country": "Colombia 🇨🇴 (2020)",
+        "population": 50326931
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.88808912903244,
+          -11.947399389389586
+        ]
+      },
+      "properties": {
+        "country": "Comoros 🇰🇲 (2020)",
+        "population": 794086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.93259966071998,
+          15.644578127480587
+        ]
+      },
+      "properties": {
+        "country": "Cabo Verde 🇨🇻 (2020)",
+        "population": 514496
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15690669793686,
+          9.974421216601822
+        ]
+      },
+      "properties": {
+        "country": "Costa Rica 🇨🇷 (2020)",
+        "population": 5019218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39474823362437,
+          21.81955167365485
+        ]
+      },
+      "properties": {
+        "country": "Cuba 🇨🇺 (2020)",
+        "population": 11188743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.92871219355932,
+          12.150161287495074
+        ]
+      },
+      "properties": {
+        "country": "Curaçao 🇨🇼 (2020)",
+        "population": 184701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.64993806062009,
+          -10.430438429404106
+        ]
+      },
+      "properties": {
+        "country": "Christmas Island 🇨🇽 (2020)",
+        "population": 1755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.28645359182035,
+          19.32669569918982
+        ]
+      },
+      "properties": {
+        "country": "Cayman Islands 🇰🇾 (2020)",
+        "population": 68016
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.293747678189696,
+          35.02661292800501
+        ]
+      },
+      "properties": {
+        "country": "Cyprus 🇨🇾 (2020)",
+        "population": 1294504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.546847810972295,
+          49.830349799140464
+        ]
+      },
+      "properties": {
+        "country": "Czechia 🇨🇿 (2020)",
+        "population": 10557442
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.683309666537248,
+          50.8312049705627
+        ]
+      },
+      "properties": {
+        "country": "Germany 🇩🇪 (2020)",
+        "population": 83634807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.92566369907541,
+          11.553203458770376
+        ]
+      },
+      "properties": {
+        "country": "Djibouti 🇩🇯 (2020)",
+        "population": 1097057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.36903560581861,
+          15.392704967743237
+        ]
+      },
+      "properties": {
+        "country": "Dominica 🇩🇲 (2020)",
+        "population": 67727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.886154807446326,
+          55.856691056210025
+        ]
+      },
+      "properties": {
+        "country": "Denmark 🇩🇰 (2020)",
+        "population": 5822943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.16814408757969,
+          18.814633191006596
+        ]
+      },
+      "properties": {
+        "country": "Dominican Republic 🇩🇴 (2020)",
+        "population": 10948573
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553271462000852,
+          35.59580913406095
+        ]
+      },
+      "properties": {
+        "country": "Algeria 🇩🇿 (2020)",
+        "population": 43685420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29331921712493,
+          -1.401675057471415
+        ]
+      },
+      "properties": {
+        "country": "Ecuador 🇪🇨 (2020)",
+        "population": 17473004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.214825707077864,
+          29.6361950325722
+        ]
+      },
+      "properties": {
+        "country": "Egypt 🇪🇬 (2020)",
+        "population": 108459595
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.66647521281949,
+          15.328035134172065
+        ]
+      },
+      "properties": {
+        "country": "Eritrea 🇪🇷 (2020)",
+        "population": 3262069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.474986028905327,
+          24.542374461814724
+        ]
+      },
+      "properties": {
+        "country": "Western Sahara 🇪🇭 (2020)",
+        "population": 544693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.191756813007637,
+          39.63699180376142
+        ]
+      },
+      "properties": {
+        "country": "Spain 🇪🇸 (2020)",
+        "population": 47637072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.461007617080774,
+          59.0109060388526
+        ]
+      },
+      "properties": {
+        "country": "Estonia 🇪🇪 (2020)",
+        "population": 1328857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.595172358747305,
+          8.975034168218674
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia 🇪🇹 (2020)",
+        "population": 117298379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.903526867768488,
+          61.695229894631396
+        ]
+      },
+      "properties": {
+        "country": "Finland 🇫🇮 (2020)",
+        "population": 5525344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.02612866243658,
+          -17.707115590565987
+        ]
+      },
+      "properties": {
+        "country": "Fiji 🇫🇯 (2020)",
+        "population": 913600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.09054570321922,
+          -51.706394651438885
+        ]
+      },
+      "properties": {
+        "country": "Falkland Islands (Malvinas) 🇫🇰 (2020)",
+        "population": 3512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.63809195890891,
+          47.07027586825477
+        ]
+      },
+      "properties": {
+        "country": "France 🇫🇷 (2020)",
+        "population": 65816791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.823244593256138,
+          62.051611516579634
+        ]
+      },
+      "properties": {
+        "country": "Faroe Islands 🇫🇴 (2020)",
+        "population": 52245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.51251814856164,
+          7.191194756546013
+        ]
+      },
+      "properties": {
+        "country": "Micronesia, Federated States of 🇫🇲 (2020)",
+        "population": 110443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.648364701998124,
+          -0.182818733303953
+        ]
+      },
+      "properties": {
+        "country": "Gabon 🇬🇦 (2020)",
+        "population": 2295412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.647611485950107,
+          52.71419777467481
+        ]
+      },
+      "properties": {
+        "country": "United Kingdom 🇬🇧 (2020)",
+        "population": 67281888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.72806880655059,
+          41.929933729916044
+        ]
+      },
+      "properties": {
+        "country": "Georgia 🇬🇪 (2020)",
+        "population": 3796875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.553123194691367,
+          49.475392077657894
+        ]
+      },
+      "properties": {
+        "country": "Guernsey 🇬🇬 (2020)",
+        "population": 62969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.998729420002909,
+          6.940488715058107
+        ]
+      },
+      "properties": {
+        "country": "Ghana 🇬🇭 (2020)",
+        "population": 31569220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.355226724206879,
+          36.143160104551086
+        ]
+      },
+      "properties": {
+        "country": "Gibraltar 🇬🇮 (2020)",
+        "population": 35826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.599273161327387,
+          10.184608754894798
+        ]
+      },
+      "properties": {
+        "country": "Guinea 🇬🇳 (2020)",
+        "population": 13202218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54909331771834,
+          16.21195348264898
+        ]
+      },
+      "properties": {
+        "country": "Guadeloupe 🇬🇵 (2020)",
+        "population": 408603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.044738738545927,
+          13.397658392665791
+        ]
+      },
+      "properties": {
+        "country": "Gambia 🇬🇲 (2020)",
+        "population": 2485601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.256210611558775,
+          12.034063450701899
+        ]
+      },
+      "properties": {
+        "country": "Guinea-Bissau 🇬🇼 (2020)",
+        "population": 1990594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932728432102381,
+          2.282186991098938
+        ]
+      },
+      "properties": {
+        "country": "Equatorial Guinea 🇬🇶 (2020)",
+        "population": 1696974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.335444739393107,
+          38.667052716340486
+        ]
+      },
+      "properties": {
+        "country": "Greece 🇬🇷 (2020)",
+        "population": 10715279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.683388689748796,
+          12.119348920294618
+        ]
+      },
+      "properties": {
+        "country": "Grenada 🇬🇩 (2020)",
+        "population": 116126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0644214348669,
+          66.02705002925968
+        ]
+      },
+      "properties": {
+        "country": "Greenland 🇬🇱 (2020)",
+        "population": 56094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.764374614739,
+          14.929778941329849
+        ]
+      },
+      "properties": {
+        "country": "Guatemala 🇬🇹 (2020)",
+        "population": 17228621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.957102619802455,
+          4.957388272767695
+        ]
+      },
+      "properties": {
+        "country": "French Guiana 🇬🇫 (2020)",
+        "population": 287848
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80264868943317,
+          13.490369498182401
+        ]
+      },
+      "properties": {
+        "country": "Guam 🇬🇺 (2020)",
+        "population": 161357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.21380476964877,
+          6.511611790088155
+        ]
+      },
+      "properties": {
+        "country": "Guyana 🇬🇾 (2020)",
+        "population": 803199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.14386589267232,
+          22.359309151726606
+        ]
+      },
+      "properties": {
+        "country": "Hong Kong 🇭🇰 (2020)",
+        "population": 7490706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.46688015736765,
+          14.765021365170563
+        ]
+      },
+      "properties": {
+        "country": "Honduras 🇭🇳 (2020)",
+        "population": 10032961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.329898870540575,
+          45.225399157869234
+        ]
+      },
+      "properties": {
+        "country": "Croatia 🇭🇷 (2020)",
+        "population": 3970037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60702984911062,
+          18.88854551923266
+        ]
+      },
+      "properties": {
+        "country": "Haiti 🇭🇹 (2020)",
+        "population": 11176134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.347142592894595,
+          47.30784112657614
+        ]
+      },
+      "properties": {
+        "country": "Hungary 🇭🇺 (2020)",
+        "population": 9768619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.14644291607974,
+          -4.890004174480103
+        ]
+      },
+      "properties": {
+        "country": "Indonesia 🇮🇩 (2020)",
+        "population": 273748193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.536095621370637,
+          54.1915868886481
+        ]
+      },
+      "properties": {
+        "country": "Isle of Man 🇮🇲 (2020)",
+        "population": 84022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12081658330598,
+          22.585445368939745
+        ]
+      },
+      "properties": {
+        "country": "India 🇮🇳 (2020)",
+        "population": 1395971076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.403479484294732,
+          53.122460487345585
+        ]
+      },
+      "properties": {
+        "country": "Ireland 🇮🇪 (2020)",
+        "population": 4962557
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.90440344740469,
+          34.15231390214472
+        ]
+      },
+      "properties": {
+        "country": "Iran, Islamic Republic of 🇮🇷 (2020)",
+        "population": 87481766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.669649712921355,
+          33.607539691924536
+        ]
+      },
+      "properties": {
+        "country": "Iraq 🇮🇶 (2020)",
+        "population": 41641695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.241173187013985,
+          64.34518617675066
+        ]
+      },
+      "properties": {
+        "country": "Iceland 🇮🇸 (2020)",
+        "population": 364277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.959983122018954,
+          32.15515138958039
+        ]
+      },
+      "properties": {
+        "country": "Israel 🇮🇱 (2020)",
+        "population": 8730394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.032090800191575,
+          42.980567462223476
+        ]
+      },
+      "properties": {
+        "country": "Italy 🇮🇹 (2020)",
+        "population": 60041302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19133380334034,
+          18.118735147888877
+        ]
+      },
+      "properties": {
+        "country": "Jamaica 🇯🇲 (2020)",
+        "population": 2824652
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.121168518965761,
+          49.2003236649021
+        ]
+      },
+      "properties": {
+        "country": "Jersey 🇯🇪 (2020)",
+        "population": 103003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.90824113601339,
+          32.00756820542277
+        ]
+      },
+      "properties": {
+        "country": "Jordan 🇯🇴 (2020)",
+        "population": 10762785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.1280640328024,
+          35.57691776557628
+        ]
+      },
+      "properties": {
+        "country": "Japan 🇯🇵 (2020)",
+        "population": 126574851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.97074659877737,
+          46.85378096761454
+        ]
+      },
+      "properties": {
+        "country": "Kazakhstan 🇰🇿 (2020)",
+        "population": 19350245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.569097992701614,
+          -0.532555711463497
+        ]
+      },
+      "properties": {
+        "country": "Kenya 🇰🇪 (2020)",
+        "population": 51707746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.64184959198137,
+          41.613134835566704
+        ]
+      },
+      "properties": {
+        "country": "Kyrgyzstan 🇰🇬 (2020)",
+        "population": 6582460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.69322024040383,
+          12.093621585707947
+        ]
+      },
+      "properties": {
+        "country": "Cambodia 🇰🇭 (2020)",
+        "population": 16591104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.19601850073562,
+          1.153972628722223
+        ]
+      },
+      "properties": {
+        "country": "Kiribati 🇰🇮 (2020)",
+        "population": 124811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.72025406250409,
+          17.290393286145985
+        ]
+      },
+      "properties": {
+        "country": "Saint Kitts and Nevis 🇰🇳 (2020)",
+        "population": 46919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.49134678932965,
+          36.64354647261477
+        ]
+      },
+      "properties": {
+        "country": "Korea, Republic of 🇰🇷 (2020)",
+        "population": 51825799
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97279884011046,
+          29.249256792264468
+        ]
+      },
+      "properties": {
+        "country": "Kuwait 🇰🇼 (2020)",
+        "population": 4464405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79573119388358,
+          17.944496681417593
+        ]
+      },
+      "properties": {
+        "country": "Lao People's Democratic Republic 🇱🇦 (2020)",
+        "population": 7292382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.667849010423794,
+          33.90149598755325
+        ]
+      },
+      "properties": {
+        "country": "Lebanon 🇱🇧 (2020)",
+        "population": 5696335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.871993792088265,
+          6.476021140026766
+        ]
+      },
+      "properties": {
+        "country": "Liberia 🇱🇷 (2020)",
+        "population": 5094199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.751461126605296,
+          31.91210457314026
+        ]
+      },
+      "properties": {
+        "country": "Libya 🇱🇾 (2020)",
+        "population": 6999279
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.975050246179386,
+          13.932875917870213
+        ]
+      },
+      "properties": {
+        "country": "Saint Lucia 🇱🇨 (2020)",
+        "population": 177973
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.520795235171255,
+          47.164037613425606
+        ]
+      },
+      "properties": {
+        "country": "Liechtenstein 🇱🇮 (2020)",
+        "population": 38620
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43291771029352,
+          7.221668757051289
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka 🇱🇰 (2020)",
+        "population": 22488003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.91260815562323,
+          -29.416050953749092
+        ]
+      },
+      "properties": {
+        "country": "Lesotho 🇱🇸 (2020)",
+        "population": 2222094
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90556534936895,
+          55.18973150262823
+        ]
+      },
+      "properties": {
+        "country": "Lithuania 🇱🇹 (2020)",
+        "population": 2795007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083540833087449,
+          49.64985347755231
+        ]
+      },
+      "properties": {
+        "country": "Luxembourg 🇱🇺 (2020)",
+        "population": 626278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.40968605698717,
+          56.84440365678791
+        ]
+      },
+      "properties": {
+        "country": "Latvia 🇱🇻 (2020)",
+        "population": 1908100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54413503633754,
+          22.19686970341347
+        ]
+      },
+      "properties": {
+        "country": "Macao 🇲🇴 (2020)",
+        "population": 677086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.0703792057306,
+          18.07920806155285
+        ]
+      },
+      "properties": {
+        "country": "Saint Martin (French part) 🇲🇫 (2020)",
+        "population": 33133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.644046351694511,
+          33.10580790703658
+        ]
+      },
+      "properties": {
+        "country": "Morocco 🇲🇦 (2020)",
+        "population": 36393932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41911414875617,
+          43.741660591130056
+        ]
+      },
+      "properties": {
+        "country": "Monaco 🇲🇨 (2020)",
+        "population": 37773
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.59023731787925,
+          47.16755970569065
+        ]
+      },
+      "properties": {
+        "country": "Moldova, Republic of 🇲🇩 (2020)",
+        "population": 3089950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30025430211629,
+          -19.360264536808433
+        ]
+      },
+      "properties": {
+        "country": "Madagascar 🇲🇬 (2020)",
+        "population": 28585992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.32719038530102,
+          4.006028201455436
+        ]
+      },
+      "properties": {
+        "country": "Maldives 🇲🇻 (2020)",
+        "population": 494998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.15964772701277,
+          21.255250560203727
+        ]
+      },
+      "properties": {
+        "country": "Mexico 🇲🇽 (2020)",
+        "population": 126356929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.96090493955862,
+          7.66273091394721
+        ]
+      },
+      "properties": {
+        "country": "Marshall Islands 🇲🇭 (2020)",
+        "population": 43360
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.538974513448423,
+          41.75681511697619
+        ]
+      },
+      "properties": {
+        "country": "North Macedonia 🇲🇰 (2020)",
+        "population": 1886191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59990221085391,
+          13.355712815010843
+        ]
+      },
+      "properties": {
+        "country": "Mali 🇲🇱 (2020)",
+        "population": 21379780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.452556101389877,
+          35.90606665629686
+        ]
+      },
+      "properties": {
+        "country": "Malta 🇲🇹 (2020)",
+        "population": 514526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.06712865957093,
+          19.516938507309646
+        ]
+      },
+      "properties": {
+        "country": "Myanmar 🇲🇲 (2020)",
+        "population": 52825300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.237450013195822,
+          42.57328008012687
+        ]
+      },
+      "properties": {
+        "country": "Montenegro 🇲🇪 (2020)",
+        "population": 609795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.61993823191955,
+          47.835691383020446
+        ]
+      },
+      "properties": {
+        "country": "Mongolia 🇲🇳 (2020)",
+        "population": 3264657
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.69967919570598,
+          15.124661410640844
+        ]
+      },
+      "properties": {
+        "country": "Northern Mariana Islands 🇲🇵 (2020)",
+        "population": 47636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.09764141868729,
+          -17.79927355595335
+        ]
+      },
+      "properties": {
+        "country": "Mozambique 🇲🇿 (2020)",
+        "population": 30323641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.043660032677668,
+          17.202559024533453
+        ]
+      },
+      "properties": {
+        "country": "Mauritania 🇲🇷 (2020)",
+        "population": 4533426
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.21196328512466,
+          16.774371967736688
+        ]
+      },
+      "properties": {
+        "country": "Montserrat 🇲🇸 (2020)",
+        "population": 4526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.012552268272536,
+          14.632357806441052
+        ]
+      },
+      "properties": {
+        "country": "Martinique 🇲🇶 (2020)",
+        "population": 358164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.75752831349119,
+          -20.22164752366806
+        ]
+      },
+      "properties": {
+        "country": "Mauritius 🇲🇺 (2020)",
+        "population": 1284798
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.44516805974147,
+          -14.202243610834003
+        ]
+      },
+      "properties": {
+        "country": "Malawi 🇲🇼 (2020)",
+        "population": 19277881
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.33373333702211,
+          3.816318233474089
+        ]
+      },
+      "properties": {
+        "country": "Malaysia 🇲🇾 (2020)",
+        "population": 33696951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17650302593311,
+          -12.793819573494897
+        ]
+      },
+      "properties": {
+        "country": "Mayotte 🇾🇹 (2020)",
+        "population": 279656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.019072169265275,
+          -20.050396696244654
+        ]
+      },
+      "properties": {
+        "country": "Namibia 🇳🇦 (2020)",
+        "population": 2687716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.21181123930566,
+          -21.866173410597817
+        ]
+      },
+      "properties": {
+        "country": "New Caledonia 🇳🇨 (2020)",
+        "population": 283701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.943537990167257,
+          13.955181164404364
+        ]
+      },
+      "properties": {
+        "country": "Niger 🇳🇪 (2020)",
+        "population": 23327598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.9552976142271,
+          -29.031224550421953
+        ]
+      },
+      "properties": {
+        "country": "Norfolk Island 🇳🇫 (2020)",
+        "population": 2202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.186301050185373,
+          8.652642098397932
+        ]
+      },
+      "properties": {
+        "country": "Nigeria 🇳🇬 (2020)",
+        "population": 211740830
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.89782008381115,
+          12.593708075535854
+        ]
+      },
+      "properties": {
+        "country": "Nicaragua 🇳🇮 (2020)",
+        "population": 6525202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.88802878506695,
+          -19.071455101628015
+        ]
+      },
+      "properties": {
+        "country": "Niue 🇳🇺 (2020)",
+        "population": 1793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.284909554249617,
+          52.09512853957291
+        ]
+      },
+      "properties": {
+        "country": "Netherlands 🇳🇱 (2020)",
+        "population": 17601682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.865373518648934,
+          61.02885694590245
+        ]
+      },
+      "properties": {
+        "country": "Norway 🇳🇴 (2020)",
+        "population": 5367414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.5681674075055,
+          27.618513328247147
+        ]
+      },
+      "properties": {
+        "country": "Nepal 🇳🇵 (2020)",
+        "population": 28698721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.92337704414822,
+          -0.524433178893031
+        ]
+      },
+      "properties": {
+        "country": "Nauru 🇳🇷 (2020)",
+        "population": 11625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.27775338853564,
+          -39.428189061329334
+        ]
+      },
+      "properties": {
+        "country": "New Zealand 🇳🇿 (2020)",
+        "population": 5036509
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.4395983412424,
+          22.855118169461768
+        ]
+      },
+      "properties": {
+        "country": "Oman 🇴🇲 (2020)",
+        "population": 4571203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.27391740924193,
+          30.445550951823783
+        ]
+      },
+      "properties": {
+        "country": "Pakistan 🇵🇰 (2020)",
+        "population": 232775824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.31169772652319,
+          8.799162966043777
+        ]
+      },
+      "properties": {
+        "country": "Panama 🇵🇦 (2020)",
+        "population": 4267227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.10627013839678,
+          -25.064961808851546
+        ]
+      },
+      "properties": {
+        "country": "Pitcairn 🇵🇳 (2020)",
+        "population": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.32509574120121,
+          -10.74325557889005
+        ]
+      },
+      "properties": {
+        "country": "Peru 🇵🇪 (2020)",
+        "population": 32659926
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.42719588256534,
+          12.21945713972692
+        ]
+      },
+      "properties": {
+        "country": "Philippines 🇵🇭 (2020)",
+        "population": 111477954
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.60661955755475,
+          7.533882683988426
+        ]
+      },
+      "properties": {
+        "country": "Palau 🇵🇼 (2020)",
+        "population": 17788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.16938222468153,
+          -6.161574577952529
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea 🇵🇬 (2020)",
+        "population": 9715828
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.305503414247852,
+          51.72847536455364
+        ]
+      },
+      "properties": {
+        "country": "Poland 🇵🇱 (2020)",
+        "population": 38218949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3530410220777,
+          18.28696206107079
+        ]
+      },
+      "properties": {
+        "country": "Puerto Rico 🇵🇷 (2020)",
+        "population": 3287114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59157049751502,
+          39.62578172440636
+        ]
+      },
+      "properties": {
+        "country": "Korea, Democratic People's Republic of 🇰🇵 (2020)",
+        "population": 26089152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.21412376549798,
+          39.68349362825478
+        ]
+      },
+      "properties": {
+        "country": "Portugal 🇵🇹 (2020)",
+        "population": 10362446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.694613829742266,
+          -25.274130325860828
+        ]
+      },
+      "properties": {
+        "country": "Paraguay 🇵🇾 (2020)",
+        "population": 6558516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.85796542421115,
+          31.736308715954824
+        ]
+      },
+      "properties": {
+        "country": "Palestine, State of 🇵🇸 (2020)",
+        "population": 5011275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1270423146006,
+          -17.277644271083002
+        ]
+      },
+      "properties": {
+        "country": "French Polynesia 🇵🇫 (2020)",
+        "population": 278819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.453997694483455,
+          25.295017568231994
+        ]
+      },
+      "properties": {
+        "country": "Qatar 🇶🇦 (2020)",
+        "population": 2815984
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.470156565914884,
+          -21.08832254138008
+        ]
+      },
+      "properties": {
+        "country": "Réunion 🇷🇪 (2020)",
+        "population": 856724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.253847231002258,
+          45.702471681198865
+        ]
+      },
+      "properties": {
+        "country": "Romania 🇷🇴 (2020)",
+        "population": 19453041
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.72610312400639,
+          53.7761836356499
+        ]
+      },
+      "properties": {
+        "country": "Russian Federation 🇷🇺 (2020)",
+        "population": 146554625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.87564012981316,
+          -1.986529263152281
+        ]
+      },
+      "properties": {
+        "country": "Rwanda 🇷🇼 (2020)",
+        "population": 12920618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.60172670804192,
+          23.5922923134009
+        ]
+      },
+      "properties": {
+        "country": "Saudi Arabia 🇸🇦 (2020)",
+        "population": 30809024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13710726425786,
+          14.227672433592986
+        ]
+      },
+      "properties": {
+        "country": "Sudan 🇸🇩 (2020)",
+        "population": 46174296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.986767610722044,
+          14.532070078027417
+        ]
+      },
+      "properties": {
+        "country": "Senegal 🇸🇳 (2020)",
+        "population": 16571838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83666007154363,
+          1.366744825137169
+        ]
+      },
+      "properties": {
+        "country": "Singapore 🇸🇬 (2020)",
+        "population": 5681771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.713924449607008,
+          -15.943459423417789
+        ]
+      },
+      "properties": {
+        "country": "Saint Helena, Ascension and Tristan da Cunha 🇸🇭 (2020)",
+        "population": 5448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.993151903367856,
+          74.50833337130001
+        ]
+      },
+      "properties": {
+        "country": "Svalbard and Jan Mayen 🇸🇯 (2020)",
+        "population": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.00952751558012,
+          -9.079379260113967
+        ]
+      },
+      "properties": {
+        "country": "Solomon Islands 🇸🇧 (2020)",
+        "population": 735472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.98310971142119,
+          8.389877400789143
+        ]
+      },
+      "properties": {
+        "country": "Sierra Leone 🇸🇱 (2020)",
+        "population": 7821405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.07854350963785,
+          13.720690227121349
+        ]
+      },
+      "properties": {
+        "country": "El Salvador 🇸🇻 (2020)",
+        "population": 6223158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.460293853322774,
+          43.951722970084404
+        ]
+      },
+      "properties": {
+        "country": "San Marino 🇸🇲 (2020)",
+        "population": 34714
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.31839718620959,
+          5.087271970258904
+        ]
+      },
+      "properties": {
+        "country": "Somalia 🇸🇴 (2020)",
+        "population": 16331907
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.199634118545454,
+          46.81323969576734
+        ]
+      },
+      "properties": {
+        "country": "Saint Pierre and Miquelon 🇵🇲 (2020)",
+        "population": 5851
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.59662370801036,
+          44.43534524463924
+        ]
+      },
+      "properties": {
+        "country": "Serbia 🇷🇸 (2020)",
+        "population": 6939122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.55863273454051,
+          7.19303023510287
+        ]
+      },
+      "properties": {
+        "country": "South Sudan 🇸🇸 (2020)",
+        "population": 10560834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.715345362923023,
+          0.372313870034897
+        ]
+      },
+      "properties": {
+        "country": "Sao Tome and Principe 🇸🇹 (2020)",
+        "population": 214998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.28561382050936,
+          5.674473886654734
+        ]
+      },
+      "properties": {
+        "country": "Suriname 🇸🇷 (2020)",
+        "population": 609140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.13946031600349,
+          48.65878579572684
+        ]
+      },
+      "properties": {
+        "country": "Slovakia 🇸🇰 (2020)",
+        "population": 5454385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.872935717896413,
+          46.16764157739144
+        ]
+      },
+      "properties": {
+        "country": "Slovenia 🇸🇮 (2020)",
+        "population": 2090738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.53377686431187,
+          58.830723511996645
+        ]
+      },
+      "properties": {
+        "country": "Sweden 🇸🇪 (2020)",
+        "population": 10327875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.407954713258274,
+          -26.50349254497978
+        ]
+      },
+      "properties": {
+        "country": "Eswatini 🇸🇿 (2020)",
+        "population": 1185399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.06346231899875,
+          18.044941056206994
+        ]
+      },
+      "properties": {
+        "country": "Sint Maarten (Dutch part) 🇸🇽 (2020)",
+        "population": 40708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48291415787129,
+          -4.625686454992755
+        ]
+      },
+      "properties": {
+        "country": "Seychelles 🇸🇨 (2020)",
+        "population": 118957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35221207301398,
+          34.97508713507999
+        ]
+      },
+      "properties": {
+        "country": "Syrian Arab Republic 🇸🇾 (2020)",
+        "population": 20750905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01702783764634,
+          21.7305868426297
+        ]
+      },
+      "properties": {
+        "country": "Turks and Caicos Islands 🇹🇨 (2020)",
+        "population": 43953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.28926964599673,
+          11.334129456654358
+        ]
+      },
+      "properties": {
+        "country": "Chad 🇹🇩 (2020)",
+        "population": 16935757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.046467548928027,
+          7.781109960742676
+        ]
+      },
+      "properties": {
+        "country": "Togo 🇹🇬 (2020)",
+        "population": 8565878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.00851813095238,
+          14.114412196860172
+        ]
+      },
+      "properties": {
+        "country": "Thailand 🇹🇭 (2020)",
+        "population": 71583299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16321844035879,
+          38.720780394974476
+        ]
+      },
+      "properties": {
+        "country": "Tajikistan 🇹🇯 (2020)",
+        "population": 9641357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.85001532143008,
+          -9.191651005069925
+        ]
+      },
+      "properties": {
+        "country": "Tokelau 🇹🇰 (2020)",
+        "population": 2083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.48060123045981,
+          38.944624152105725
+        ]
+      },
+      "properties": {
+        "country": "Turkmenistan 🇹🇲 (2020)",
+        "population": 6877949
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.65541331273093,
+          -8.760495098695937
+        ]
+      },
+      "properties": {
+        "country": "Timor-Leste 🇹🇱 (2020)",
+        "population": 1313574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.97058308183293,
+          -20.66921086635635
+        ]
+      },
+      "properties": {
+        "country": "Tonga 🇹🇴 (2020)",
+        "population": 105696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37919569765739,
+          10.520057403691688
+        ]
+      },
+      "properties": {
+        "country": "Trinidad and Tobago 🇹🇹 (2020)",
+        "population": 1478344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.047939942223067,
+          35.779511336848834
+        ]
+      },
+      "properties": {
+        "country": "Tunisia 🇹🇳 (2020)",
+        "population": 11928933
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.90768532759165,
+          39.27507679166991
+        ]
+      },
+      "properties": {
+        "country": "Türkiye 🇹🇷 (2020)",
+        "population": 85758494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.61086142941602,
+          -7.993090426625932
+        ]
+      },
+      "properties": {
+        "country": "Tuvalu 🇹🇻 (2020)",
+        "population": 10492
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93188383804493,
+          24.206155452350302
+        ]
+      },
+      "properties": {
+        "country": "Taiwan, Province of China 🇹🇼 (2020)",
+        "population": 23680473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.13988914562231,
+          -5.491954208627063
+        ]
+      },
+      "properties": {
+        "country": "Tanzania, United Republic of 🇹🇿 (2020)",
+        "population": 60051409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.24716851043864,
+          0.953178809544287
+        ]
+      },
+      "properties": {
+        "country": "Uganda 🇺🇬 (2020)",
+        "population": 43736774
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.57569085628758,
+          48.800810735194894
+        ]
+      },
+      "properties": {
+        "country": "Ukraine 🇺🇦 (2020)",
+        "population": 44835870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.23415597187827,
+          -34.05233221442866
+        ]
+      },
+      "properties": {
+        "country": "Uruguay 🇺🇾 (2020)",
+        "population": 3397690
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44872238904323,
+          37.34315441472335
+        ]
+      },
+      "properties": {
+        "country": "United States 🇺🇸 (2020)",
+        "population": 339142427
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.52319015059157,
+          40.54532031491817
+        ]
+      },
+      "properties": {
+        "country": "Uzbekistan 🇺🇿 (2020)",
+        "population": 33269104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.20962106495183,
+          13.168186548926947
+        ]
+      },
+      "properties": {
+        "country": "Saint Vincent and the Grenadines 🇻🇨 (2020)",
+        "population": 103782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.96317111405882,
+          9.645081839682584
+        ]
+      },
+      "properties": {
+        "country": "Venezuela, Bolivarian Republic of 🇻🇪 (2020)",
+        "population": 28587753
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.59350810549152,
+          18.437690469333536
+        ]
+      },
+      "properties": {
+        "country": "Virgin Islands, British 🇻🇬 (2020)",
+        "population": 36645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84917048264599,
+          18.055958702509855
+        ]
+      },
+      "properties": {
+        "country": "Virgin Islands, U.S. 🇻🇮 (2020)",
+        "population": 87882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39026286190735,
+          15.804062588207104
+        ]
+      },
+      "properties": {
+        "country": "Viet Nam 🇻🇳 (2020)",
+        "population": 97620403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.06315496381586,
+          -16.86658212565319
+        ]
+      },
+      "properties": {
+        "country": "Vanuatu 🇻🇺 (2020)",
+        "population": 295340
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.93783946105927,
+          -13.815781197705375
+        ]
+      },
+      "properties": {
+        "country": "Samoa 🇼🇸 (2020)",
+        "population": 210866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.90254428924156,
+          42.540595446211725
+        ]
+      },
+      "properties": {
+        "country": "Kosovo 🇽🇰 (2020)",
+        "population": 1746694
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.42153901166306,
+          14.759024386207573
+        ]
+      },
+      "properties": {
+        "country": "Yemen 🇾🇪 (2020)",
+        "population": 35640680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.631569300386133,
+          -28.256362622454585
+        ]
+      },
+      "properties": {
+        "country": "South Africa 🇿🇦 (2020)",
+        "population": 60079493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.59161192801984,
+          -13.584623924449382
+        ]
+      },
+      "properties": {
+        "country": "Zambia 🇿🇲 (2020)",
+        "population": 18787068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.603252752370295,
+          -18.668954935221844
+        ]
+      },
+      "properties": {
+        "country": "Zimbabwe 🇿🇼 (2020)",
+        "population": 15394208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.19741746992003,
+          -13.284926015855696
+        ]
+      },
+      "properties": {
+        "country": "Wallis and Futuna 🇼🇫 (2020)",
+        "population": 11632
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.7656898180368,
+          22.244096357817895
+        ]
+      },
+      "properties": {
+        "country": "All Countries 🌏 (2020)",
+        "population": 7851448070
+      }
+    }
+  ]
+}
