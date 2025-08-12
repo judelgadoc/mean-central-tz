@@ -2,22 +2,22 @@ import csv
 import json
 import argparse
 import pycountry
+import re
 
 
 pycountry.countries.add_entry(alpha_2="XK", alpha_3="XKX", name="Kosovo", numeric="926", flag="🇽🇰")
 
-def get_country_from_file(country_file):
+def get_country_from_file(country_file, year):
     if country_file == "all_countries":
-        return country_file
+        return f"All Countries 🗺️ ({year})"
     else:
         aux = pycountry.countries.get(alpha_3=country_file[:3])
-        print(aux, country_file)
-        return f"{aux.name} {aux.flag}"
+        return f"{aux.name} {aux.flag} ({year})"
 
 
 def csv_to_geojson(csv_path, geojson_path):
     features = []
-
+    year = int(re.search(r'(?<!\d)(19|20)\d{2}(?!\d)', csv_path).group())
     with open(csv_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
         for row in reader:
@@ -25,7 +25,7 @@ def csv_to_geojson(csv_path, geojson_path):
                 lat = float(row['weighted_lat'])
                 lon = float(row['weighted_lon'])
                 properties = {
-                    'country': get_country_from_file(row['country_file']),
+                    'country': get_country_from_file(row['country_file'], year),
                     'population': int(float(row['total_population']))
                 }
                 feature = {

@@ -9,32 +9,6 @@ for (i = 2020; i < 2026; i++) {
     }
 }
 
-// Convert to GeoJSON FeatureCollection
-const features = [];
-
-for (const year in dataByYear) {
-  dataByYear[year].forEach(point => {
-    features.push({
-      type: "Feature",
-      properties: {
-        name: point.name,
-        population: point.population,
-        year: Number(year)
-      },
-      geometry: {
-        type: "Point",
-        coordinates: [point.lng, point.lat] // GeoJSON uses [lng, lat]
-      }
-    });
-  });
-}
-
-const geojson = {
-  type: "FeatureCollection",
-  features: features
-};
-
-console.log(JSON.stringify(geojson, null, 2));
 
 const purpleIcon = new L.Icon({
     iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-violet.png',
@@ -55,31 +29,61 @@ const grayIcon = new L.Icon({
 });
 
 
-var map = L.map('map').setView([51.505, -0.09], 13);
+var map = L.map('map').setView([43.6, 23.6], 2);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; OpenStreetMap contributors'
 }).addTo(map);
 
-let markersGroup = L.layerGroup().addTo(map);
+const geojsonCache = {};
+
+Promise.all(
+    Array.from({length: (2030-2015+1)}, (_, i) => 2015 + i).map(year =>
+        fetch(`data_${year}.geojson`)
+            .then(res => res.json())
+            .then(data => geojsonCache[year] = data)
+    )
+).then(() => updateMarkers(2020));
+
+let allCountriesGroup = L.layerGroup().addTo(map);
+let otherCountriesGroup = L.layerGroup().addTo(map);
 
 function updateMarkers(year) {
-    markersGroup.clearLayers();
+    allCountriesGroup.clearLayers();
+    otherCountriesGroup.clearLayers();
 
-    if (dataByYear[year]) {
-        dataByYear[year].forEach(point => {
-            if (point.name.includes("all_countries")) {
-                icon = purpleIcon;
-            } else {
-                icon = grayIcon;
-            }
-            L.marker([point.lat, point.lng], { icon: icon })
-                .bindPopup(`<b>${point.name}</b><br>Population: ${point.population}<br><br>${point.lat}, ${point.lng}`)
-                .addTo(markersGroup);
-        });
-    }
+    const geojson = geojsonCache[year];
+    if (!geojson) return;
+
+    // All Countries layer
+    L.geoJSON(geojson, {
+        filter: feature => feature.properties.country.includes("All Countries"),
+        pointToLayer: (feature, latlng) => {
+            return L.marker(latlng, { icon: purpleIcon })
+                .bindPopup(`
+                    <b>${feature.properties.country}</b><br>
+                    Population: ${feature.properties.population}<br>
+                    <br>${latlng.lat.toFixed(7)}, ${latlng.lng.toFixed(7)}
+                `);
+        }
+    }).addTo(allCountriesGroup);
+
+    // Other Countries layer
+    L.geoJSON(geojson, {
+        filter: feature => !feature.properties.country.includes("All Countries"),
+        pointToLayer: (feature, latlng) => {
+            return L.marker(latlng, { icon: grayIcon })
+                .bindPopup(`
+                    <b>${feature.properties.country}</b><br>
+                    Population: ${feature.properties.population}<br>
+                    <br>${latlng.lat.toFixed(7)}, ${latlng.lng.toFixed(7)}
+                `);
+        }
+    }).addTo(otherCountriesGroup);
 }
+
+
 
 // Create a custom control for the slider
 const YearSliderControl = L.Control.extend({
@@ -90,7 +94,7 @@ const YearSliderControl = L.Control.extend({
 
         container.innerHTML = `
       <label for="yearSlider" style="font-weight:bold; display:block; margin-bottom:4px;">Year: <span id="yearLabel">2020</span></label>
-      <input type="range" id="yearSlider" min="2020" max="2025" step="1" value="2020" />
+      <input type="range" id="yearSlider" min="2015" max="2030" step="1" value="2020" />
     `;
 
         // Prevent map interactions when interacting with the slider
@@ -113,6 +117,10 @@ slider.addEventListener('input', (e) => {
     updateMarkers(year);
 });
 
-// Initialize markers
-updateMarkers(slider.value);
 
+
+// Add layer control to toggle them
+L.control.layers(null, {
+    "All Countries": allCountriesGroup,
+    "Other Countries": otherCountriesGroup
+}).addTo(map);
