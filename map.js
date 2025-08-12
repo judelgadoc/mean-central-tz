@@ -119,8 +119,30 @@ slider.addEventListener('input', (e) => {
 
 
 
+/*
+L.timezones.bindPopup(function (layer) {
+    return layer.feature.properties.time_zone;
+}).addTo(map); 
+*/
+
+timezones = L.timezones.bindPopup(function (layer) {
+    const formatter = new Intl.DateTimeFormat("en-GB", {
+        timeZone: layer.feature.properties.tzid,
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit",
+        timeZoneName: "shortOffset"
+    });
+    return formatter.format(new Date())
+}).addTo(map);
+
+
 // Add layer control to toggle them
 L.control.layers(null, {
     "All Countries": allCountriesGroup,
-    "Other Countries": otherCountriesGroup
+    "Other Countries": otherCountriesGroup,
+    "Timezones": timezones
 }).addTo(map);
