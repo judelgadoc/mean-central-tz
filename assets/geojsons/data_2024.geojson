@@ -1,0 +1,3393 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99828359277787,
+          12.518281764546865
+        ]
+      },
+      "properties": {
+        "country": "Aruba 🇦🇼 (2024)",
+        "population": 108009
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.54022869922859,
+          34.56400936267796
+        ]
+      },
+      "properties": {
+        "country": "Afghanistan 🇦🇫 (2024)",
+        "population": 42044653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.951020539061837,
+          -10.830112851901463
+        ]
+      },
+      "properties": {
+        "country": "Angola 🇦🇴 (2024)",
+        "population": 37312856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.06583623399133,
+          18.21568879920502
+        ]
+      },
+      "properties": {
+        "country": "Anguilla 🇦🇮 (2024)",
+        "population": 14523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.980754312516485,
+          60.15720852675474
+        ]
+      },
+      "properties": {
+        "country": "Åland Islands 🇦🇽 (2024)",
+        "population": 30866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.845495292244436,
+          41.19677666859792
+        ]
+      },
+      "properties": {
+        "country": "Albania 🇦🇱 (2024)",
+        "population": 2801661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.533841284661063,
+          42.52376222359841
+        ]
+      },
+      "properties": {
+        "country": "Andorra 🇦🇩 (2024)",
+        "population": 81418
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.265617950117736,
+          24.886784824119893
+        ]
+      },
+      "properties": {
+        "country": "United Arab Emirates 🇦🇪 (2024)",
+        "population": 10839131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.40874288894707,
+          -32.90094046275638
+        ]
+      },
+      "properties": {
+        "country": "Argentina 🇦🇷 (2024)",
+        "population": 45617777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5773172397936,
+          40.2881220053543
+        ]
+      },
+      "properties": {
+        "country": "Armenia 🇦🇲 (2024)",
+        "population": 2984437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.71091335165383,
+          -14.31008192612049
+        ]
+      },
+      "properties": {
+        "country": "American Samoa 🇦🇸 (2024)",
+        "population": 47141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.822195550588,
+          17.11787545007655
+        ]
+      },
+      "properties": {
+        "country": "Antigua and Barbuda 🇦🇬 (2024)",
+        "population": 93549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.84139934243078,
+          -33.02987232160307
+        ]
+      },
+      "properties": {
+        "country": "Australia 🇦🇺 (2024)",
+        "population": 26581445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.697744225710876,
+          47.79279620851551
+        ]
+      },
+      "properties": {
+        "country": "Austria 🇦🇹 (2024)",
+        "population": 9124754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.359844031561934,
+          40.33717093860708
+        ]
+      },
+      "properties": {
+        "country": "Azerbaijan 🇦🇿 (2024)",
+        "population": 10304788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.823513021492985,
+          -3.259068306458364
+        ]
+      },
+      "properties": {
+        "country": "Burundi 🇧🇮 (2024)",
+        "population": 13874901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.433979234860495,
+          50.84890252139218
+        ]
+      },
+      "properties": {
+        "country": "Belgium 🇧🇪 (2024)",
+        "population": 11727682
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.299799926482307,
+          8.367270097370344
+        ]
+      },
+      "properties": {
+        "country": "Benin 🇧🇯 (2024)",
+        "population": 14287902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3807479899896,
+          13.103280704974063
+        ]
+      },
+      "properties": {
+        "country": "Bonaire, Sint Eustatius and Saba 🇧🇶 (2024)",
+        "population": 30324
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.888380097131123,
+          12.244145197030736
+        ]
+      },
+      "properties": {
+        "country": "Burkina Faso 🇧🇫 (2024)",
+        "population": 23285916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.23546043988846,
+          23.92547004172773
+        ]
+      },
+      "properties": {
+        "country": "Bangladesh 🇧🇩 (2024)",
+        "population": 172507467
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.993514536884664,
+          42.71891472675178
+        ]
+      },
+      "properties": {
+        "country": "Bulgaria 🇧🇬 (2024)",
+        "population": 6778221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.558524621132634,
+          26.187194497264702
+        ]
+      },
+      "properties": {
+        "country": "Bahrain 🇧🇭 (2024)",
+        "population": 1587804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42094865850339,
+          25.22170887954058
+        ]
+      },
+      "properties": {
+        "country": "Bahamas 🇧🇸 (2024)",
+        "population": 400365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9152138298545,
+          44.32311627526373
+        ]
+      },
+      "properties": {
+        "country": "Bosnia and Herzegovina 🇧🇦 (2024)",
+        "population": 3175680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.837282180573276,
+          17.909289160257952
+        ]
+      },
+      "properties": {
+        "country": "Saint Barthélemy 🇧🇱 (2024)",
+        "population": 11176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.79862022550368,
+          53.54242753197758
+        ]
+      },
+      "properties": {
+        "country": "Belarus 🇧🇾 (2024)",
+        "population": 9085898
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5763506551298,
+          17.42769187466842
+        ]
+      },
+      "properties": {
+        "country": "Belize 🇧🇿 (2024)",
+        "population": 414097
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.78330625226458,
+          32.30203229123913
+        ]
+      },
+      "properties": {
+        "country": "Bermuda 🇧🇲 (2024)",
+        "population": 64671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.48336481622925,
+          -17.578433600644114
+        ]
+      },
+      "properties": {
+        "country": "Bolivia, Plurinational State of 🇧🇴 (2024)",
+        "population": 12328823
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.889500924247955,
+          -17.074683771076394
+        ]
+      },
+      "properties": {
+        "country": "Brazil 🇧🇷 (2024)",
+        "population": 211574457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5715862095301,
+          13.14458216859553
+        ]
+      },
+      "properties": {
+        "country": "Barbados 🇧🇧 (2024)",
+        "population": 282375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.81265247911917,
+          4.863167926911952
+        ]
+      },
+      "properties": {
+        "country": "Brunei Darussalam 🇧🇳 (2024)",
+        "population": 460869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.98165596903917,
+          27.307126515401603
+        ]
+      },
+      "properties": {
+        "country": "Bhutan 🇧🇹 (2024)",
+        "population": 789105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.72101673996571,
+          -23.02230781790825
+        ]
+      },
+      "properties": {
+        "country": "Botswana 🇧🇼 (2024)",
+        "population": 2500551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.40091956501924,
+          5.439582186451374
+        ]
+      },
+      "properties": {
+        "country": "Central African Republic 🇨🇫 (2024)",
+        "population": 5240249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.942132191414473,
+          47.02815439710423
+        ]
+      },
+      "properties": {
+        "country": "Switzerland 🇨🇭 (2024)",
+        "population": 8898068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31729553150873,
+          -33.89405257878811
+        ]
+      },
+      "properties": {
+        "country": "Chile 🇨🇱 (2024)",
+        "population": 19714430
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.47674883930763,
+          31.90089362480648
+        ]
+      },
+      "properties": {
+        "country": "China 🇨🇳 (2024)",
+        "population": 1420908918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.291245766163335,
+          6.720212038369335
+        ]
+      },
+      "properties": {
+        "country": "Côte d'Ivoire 🇨🇮 (2024)",
+        "population": 31547787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.924421343630934,
+          6.391273199563246
+        ]
+      },
+      "properties": {
+        "country": "Cameroon 🇨🇲 (2024)",
+        "population": 28747541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.912853740995374,
+          -3.149619755480382
+        ]
+      },
+      "properties": {
+        "country": "Congo, The Democratic Republic of the 🇨🇩 (2024)",
+        "population": 107516151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.336941486287294,
+          -3.387580480165479
+        ]
+      },
+      "properties": {
+        "country": "Congo 🇨🇬 (2024)",
+        "population": 6257628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.65717072275805,
+          -20.84585432815098
+        ]
+      },
+      "properties": {
+        "country": "Cook Islands 🇨🇰 (2024)",
+        "population": 13966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79597187110066,
+          6.094051890620369
+        ]
+      },
+      "properties": {
+        "country": "Colombia 🇨🇴 (2024)",
+        "population": 52609700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.90278017330104,
+          -11.954238807336495
+        ]
+      },
+      "properties": {
+        "country": "Comoros 🇰🇲 (2024)",
+        "population": 858506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.910927110783373,
+          15.639157465801281
+        ]
+      },
+      "properties": {
+        "country": "Cabo Verde 🇨🇻 (2024)",
+        "population": 523614
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.16068312672255,
+          9.976398290939395
+        ]
+      },
+      "properties": {
+        "country": "Costa Rica 🇨🇷 (2024)",
+        "population": 5118075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41059994791897,
+          21.825745008682045
+        ]
+      },
+      "properties": {
+        "country": "Cuba 🇨🇺 (2024)",
+        "population": 11000592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.92871699274282,
+          12.150166531704734
+        ]
+      },
+      "properties": {
+        "country": "Curaçao 🇨🇼 (2024)",
+        "population": 185460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.65946572464115,
+          -10.426192902916105
+        ]
+      },
+      "properties": {
+        "country": "Christmas Island 🇨🇽 (2024)",
+        "population": 1347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.29530201368873,
+          19.32437931620851
+        ]
+      },
+      "properties": {
+        "country": "Cayman Islands 🇰🇾 (2024)",
+        "population": 73756
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.30436277186742,
+          35.036954978046275
+        ]
+      },
+      "properties": {
+        "country": "Cyprus 🇨🇾 (2024)",
+        "population": 1351836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.532976900747581,
+          49.83013132598187
+        ]
+      },
+      "properties": {
+        "country": "Czechia 🇨🇿 (2024)",
+        "population": 10791553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6792260557261,
+          50.822002035473844
+        ]
+      },
+      "properties": {
+        "country": "Germany 🇩🇪 (2024)",
+        "population": 84695563
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.92623504749255,
+          11.55153744355472
+        ]
+      },
+      "properties": {
+        "country": "Djibouti 🇩🇯 (2024)",
+        "population": 1160872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.36886320458915,
+          15.392826420357189
+        ]
+      },
+      "properties": {
+        "country": "Dominica 🇩🇲 (2024)",
+        "population": 66353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.903962681676157,
+          55.856833304834694
+        ]
+      },
+      "properties": {
+        "country": "Denmark 🇩🇰 (2024)",
+        "population": 5963902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.15990092229778,
+          18.81268004308528
+        ]
+      },
+      "properties": {
+        "country": "Dominican Republic 🇩🇴 (2024)",
+        "population": 11379988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553319108294495,
+          35.595733072212326
+        ]
+      },
+      "properties": {
+        "country": "Algeria 🇩🇿 (2024)",
+        "population": 46497095
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29254208028561,
+          -1.397012379630488
+        ]
+      },
+      "properties": {
+        "country": "Ecuador 🇪🇨 (2024)",
+        "population": 18058157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.68163648941299,
+          15.345350537843728
+        ]
+      },
+      "properties": {
+        "country": "Eritrea 🇪🇷 (2024)",
+        "population": 3501780
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.474924845593655,
+          24.54731553684851
+        ]
+      },
+      "properties": {
+        "country": "Western Sahara 🇪🇭 (2024)",
+        "population": 585182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171754294953242,
+          39.620075698222834
+        ]
+      },
+      "properties": {
+        "country": "Spain 🇪🇸 (2024)",
+        "population": 47915814
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.426409167329336,
+          59.02176857333004
+        ]
+      },
+      "properties": {
+        "country": "Estonia 🇪🇪 (2024)",
+        "population": 1367226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.58134678560749,
+          8.940552455728474
+        ]
+      },
+      "properties": {
+        "country": "Ethiopia 🇪🇹 (2024)",
+        "population": 130355024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.876749317273017,
+          61.669770117677
+        ]
+      },
+      "properties": {
+        "country": "Finland 🇫🇮 (2024)",
+        "population": 5612043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.71919498650405,
+          -17.725910351850782
+        ]
+      },
+      "properties": {
+        "country": "Fiji 🇫🇯 (2024)",
+        "population": 926544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.08164643251631,
+          -51.70181606966891
+        ]
+      },
+      "properties": {
+        "country": "Falkland Islands (Malvinas) 🇫🇰 (2024)",
+        "population": 3470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.627352914851157,
+          47.049495427313026
+        ]
+      },
+      "properties": {
+        "country": "France 🇫🇷 (2024)",
+        "population": 66496159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82385736849132,
+          62.054824271597376
+        ]
+      },
+      "properties": {
+        "country": "Faroe Islands 🇫🇴 (2024)",
+        "population": 55077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          154.5052668439851,
+          7.19188091046962
+        ]
+      },
+      "properties": {
+        "country": "Micronesia, Federated States of 🇫🇲 (2024)",
+        "population": 112893
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.631495889629834,
+          -0.173122672169698
+        ]
+      },
+      "properties": {
+        "country": "Gabon 🇬🇦 (2024)",
+        "population": 2511862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.633725734133296,
+          52.698577256021586
+        ]
+      },
+      "properties": {
+        "country": "United Kingdom 🇬🇧 (2024)",
+        "population": 68923043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.75307764900428,
+          41.92340670745086
+        ]
+      },
+      "properties": {
+        "country": "Georgia 🇬🇪 (2024)",
+        "population": 3807838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.552353853239067,
+          49.47566482293998
+        ]
+      },
+      "properties": {
+        "country": "Guernsey 🇬🇬 (2024)",
+        "population": 64168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.997343860897837,
+          6.969004570107
+        ]
+      },
+      "properties": {
+        "country": "Ghana 🇬🇭 (2024)",
+        "population": 34108456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.354848211762475,
+          36.14267313958674
+        ]
+      },
+      "properties": {
+        "country": "Gibraltar 🇬🇮 (2024)",
+        "population": 38918
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.594894512560414,
+          10.186542770227343
+        ]
+      },
+      "properties": {
+        "country": "Guinea 🇬🇳 (2024)",
+        "population": 14581540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.54840217200299,
+          16.21324036491421
+        ]
+      },
+      "properties": {
+        "country": "Guadeloupe 🇬🇵 (2024)",
+        "population": 375755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.061123358681517,
+          13.390922030945172
+        ]
+      },
+      "properties": {
+        "country": "Gambia 🇬🇲 (2024)",
+        "population": 2728904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.256815697285257,
+          12.034408048568771
+        ]
+      },
+      "properties": {
+        "country": "Guinea-Bissau 🇬🇼 (2024)",
+        "population": 2177388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.932313993932581,
+          2.281802394835809
+        ]
+      },
+      "properties": {
+        "country": "Equatorial Guinea 🇬🇶 (2024)",
+        "population": 1869618
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.346952091492295,
+          38.65001427025392
+        ]
+      },
+      "properties": {
+        "country": "Greece 🇬🇷 (2024)",
+        "population": 10136521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.68337691830503,
+          12.11920106642559
+        ]
+      },
+      "properties": {
+        "country": "Grenada 🇬🇩 (2024)",
+        "population": 117155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.16249132603018,
+          66.02497560497083
+        ]
+      },
+      "properties": {
+        "country": "Greenland 🇬🇱 (2024)",
+        "population": 55883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7690562752465,
+          14.925459667763754
+        ]
+      },
+      "properties": {
+        "country": "Guatemala 🇬🇹 (2024)",
+        "population": 18265192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.97571155147898,
+          4.953820894558966
+        ]
+      },
+      "properties": {
+        "country": "French Guiana 🇬🇫 (2024)",
+        "population": 305961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.8026540003032,
+          13.490781200486346
+        ]
+      },
+      "properties": {
+        "country": "Guam 🇬🇺 (2024)",
+        "population": 167154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.236429637594306,
+          6.507173667125448
+        ]
+      },
+      "properties": {
+        "country": "Guyana 🇬🇾 (2024)",
+        "population": 828631
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13923714118134,
+          22.362666980099107
+        ]
+      },
+      "properties": {
+        "country": "Hong Kong 🇭🇰 (2024)",
+        "population": 7433077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.46983948949874,
+          14.771495038831779
+        ]
+      },
+      "properties": {
+        "country": "Honduras 🇭🇳 (2024)",
+        "population": 10735392
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.306976579611298,
+          45.218998857785415
+        ]
+      },
+      "properties": {
+        "country": "Croatia 🇭🇷 (2024)",
+        "population": 3889335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60818131313626,
+          18.887798052461914
+        ]
+      },
+      "properties": {
+        "country": "Haiti 🇭🇹 (2024)",
+        "population": 11705195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.337938551904408,
+          47.31252069203495
+        ]
+      },
+      "properties": {
+        "country": "Hungary 🇭🇺 (2024)",
+        "population": 9689722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.20816108518149,
+          -4.860100920860455
+        ]
+      },
+      "properties": {
+        "country": "Indonesia 🇮🇩 (2024)",
+        "population": 282353644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537223826939052,
+          54.191624443168394
+        ]
+      },
+      "properties": {
+        "country": "Isle of Man 🇮🇲 (2024)",
+        "population": 84173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.12908340119115,
+          22.62380036912527
+        ]
+      },
+      "properties": {
+        "country": "India 🇮🇳 (2024)",
+        "population": 1444436244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.392462402067888,
+          53.12118631363348
+        ]
+      },
+      "properties": {
+        "country": "Ireland 🇮🇪 (2024)",
+        "population": 5227424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.927691890759405,
+          34.10295154970784
+        ]
+      },
+      "properties": {
+        "country": "Iran, Islamic Republic of 🇮🇷 (2024)",
+        "population": 91114777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63812859407126,
+          33.66472520394411
+        ]
+      },
+      "properties": {
+        "country": "Iraq 🇮🇶 (2024)",
+        "population": 45557903
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.27217271131764,
+          64.32509307075559
+        ]
+      },
+      "properties": {
+        "country": "Iceland 🇮🇸 (2024)",
+        "population": 390740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.960950188279924,
+          32.15003490392284
+        ]
+      },
+      "properties": {
+        "country": "Israel 🇮🇱 (2024)",
+        "population": 9321817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00690271295857,
+          43.012000204963854
+        ]
+      },
+      "properties": {
+        "country": "Italy 🇮🇹 (2024)",
+        "population": 59435140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3389459825523,
+          46.86261028654714
+        ]
+      },
+      "properties": {
+        "country": "Canada 🇨🇦 (2024)",
+        "population": 39538484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.21423541263728,
+          29.633993700377047
+        ]
+      },
+      "properties": {
+        "country": "Egypt 🇪🇬 (2024)",
+        "population": 115578409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.19174939411417,
+          18.118682264246022
+        ]
+      },
+      "properties": {
+        "country": "Jamaica 🇯🇲 (2024)",
+        "population": 2839821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.121059555371488,
+          49.200350454787795
+        ]
+      },
+      "properties": {
+        "country": "Jersey 🇯🇪 (2024)",
+        "population": 103766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.913240610999765,
+          32.00904497931142
+        ]
+      },
+      "properties": {
+        "country": "Jordan 🇯🇴 (2024)",
+        "population": 11530943
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.14171879654893,
+          35.56385831528262
+        ]
+      },
+      "properties": {
+        "country": "Japan 🇯🇵 (2024)",
+        "population": 124071179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.82088150929803,
+          46.727507159232324
+        ]
+      },
+      "properties": {
+        "country": "Kazakhstan 🇰🇿 (2024)",
+        "population": 20464208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58761151927534,
+          -0.577813286870775
+        ]
+      },
+      "properties": {
+        "country": "Kenya 🇰🇪 (2024)",
+        "population": 55884493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.66245078634434,
+          41.64217192654598
+        ]
+      },
+      "properties": {
+        "country": "Kyrgyzstan 🇰🇬 (2024)",
+        "population": 7130594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.70445952679856,
+          12.099276140560013
+        ]
+      },
+      "properties": {
+        "country": "Cambodia 🇰🇭 (2024)",
+        "population": 17533082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.34072214408468,
+          1.152971842842348
+        ]
+      },
+      "properties": {
+        "country": "Kiribati 🇰🇮 (2024)",
+        "population": 133527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.719696532533874,
+          17.289746298497988
+        ]
+      },
+      "properties": {
+        "country": "Saint Kitts and Nevis 🇰🇳 (2024)",
+        "population": 46803
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.48077081081178,
+          36.65428505965081
+        ]
+      },
+      "properties": {
+        "country": "Korea, Republic of 🇰🇷 (2024)",
+        "population": 51738085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.972953651232245,
+          29.247339296685304
+        ]
+      },
+      "properties": {
+        "country": "Kuwait 🇰🇼 (2024)",
+        "population": 4884143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.80328094701024,
+          17.93311204040425
+        ]
+      },
+      "properties": {
+        "country": "Lao People's Democratic Republic 🇱🇦 (2024)",
+        "population": 7717674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.66776858990289,
+          33.90199887786744
+        ]
+      },
+      "properties": {
+        "country": "Lebanon 🇱🇧 (2024)",
+        "population": 5785791
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.879204020140019,
+          6.46837600638482
+        ]
+      },
+      "properties": {
+        "country": "Liberia 🇱🇷 (2024)",
+        "population": 5553391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.760495793107093,
+          31.9151490828503
+        ]
+      },
+      "properties": {
+        "country": "Libya 🇱🇾 (2024)",
+        "population": 7342540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.975036391892225,
+          13.932752862236635
+        ]
+      },
+      "properties": {
+        "country": "Saint Lucia 🇱🇨 (2024)",
+        "population": 179523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.520886281502547,
+          47.16441427409644
+        ]
+      },
+      "properties": {
+        "country": "Liechtenstein 🇱🇮 (2024)",
+        "population": 39736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43856003831337,
+          7.226417345119505
+        ]
+      },
+      "properties": {
+        "country": "Sri Lanka 🇱🇰 (2024)",
+        "population": 23038436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.920623460784178,
+          -29.396719008874513
+        ]
+      },
+      "properties": {
+        "country": "Lesotho 🇱🇸 (2024)",
+        "population": 2324448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.917166033192245,
+          55.180088662920596
+        ]
+      },
+      "properties": {
+        "country": "Lithuania 🇱🇹 (2024)",
+        "population": 2866812
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.083305048421321,
+          49.650246666359784
+        ]
+      },
+      "properties": {
+        "country": "Luxembourg 🇱🇺 (2024)",
+        "population": 669204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.39344092373198,
+          56.84921884294893
+        ]
+      },
+      "properties": {
+        "country": "Latvia 🇱🇻 (2024)",
+        "population": 1879692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.54440575639619,
+          22.195524892197085
+        ]
+      },
+      "properties": {
+        "country": "Macao 🇲🇴 (2024)",
+        "population": 718867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.070489389479846,
+          18.079221613653264
+        ]
+      },
+      "properties": {
+        "country": "Saint Martin (French part) 🇲🇫 (2024)",
+        "population": 26772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.644119037020016,
+          33.105314479157364
+        ]
+      },
+      "properties": {
+        "country": "Morocco 🇲🇦 (2024)",
+        "population": 37901284
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.419619636760828,
+          43.74203999253572
+        ]
+      },
+      "properties": {
+        "country": "Monaco 🇲🇨 (2024)",
+        "population": 38777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.591528528084748,
+          47.164021618200444
+        ]
+      },
+      "properties": {
+        "country": "Moldova, Republic of 🇲🇩 (2024)",
+        "population": 3053415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30094652277661,
+          -19.35611417807035
+        ]
+      },
+      "properties": {
+        "country": "Madagascar 🇲🇬 (2024)",
+        "population": 31578389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.34129339959328,
+          4.023544685876037
+        ]
+      },
+      "properties": {
+        "country": "Maldives 🇲🇻 (2024)",
+        "population": 526844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.16126624468195,
+          21.285112791949743
+        ]
+      },
+      "properties": {
+        "country": "Mexico 🇲🇽 (2024)",
+        "population": 130308399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.97980667495105,
+          7.665440954625391
+        ]
+      },
+      "properties": {
+        "country": "Marshall Islands 🇲🇭 (2024)",
+        "population": 38181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.543669402038905,
+          41.76126490097119
+        ]
+      },
+      "properties": {
+        "country": "North Macedonia 🇲🇰 (2024)",
+        "population": 1827512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.628859321249665,
+          13.35732963851731
+        ]
+      },
+      "properties": {
+        "country": "Mali 🇲🇱 (2024)",
+        "population": 24122346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.451764966684856,
+          35.90689627079241
+        ]
+      },
+      "properties": {
+        "country": "Malta 🇲🇹 (2024)",
+        "population": 536394
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.05543184690433,
+          19.544216341341986
+        ]
+      },
+      "properties": {
+        "country": "Myanmar 🇲🇲 (2024)",
+        "population": 54320480
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.232948666243672,
+          42.5640022888473
+        ]
+      },
+      "properties": {
+        "country": "Montenegro 🇲🇪 (2024)",
+        "population": 639435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.66573288203831,
+          47.83514110112876
+        ]
+      },
+      "properties": {
+        "country": "Mongolia 🇲🇳 (2024)",
+        "population": 3454269
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7023644470479,
+          15.12926192666673
+        ]
+      },
+      "properties": {
+        "country": "Northern Mariana Islands 🇲🇵 (2024)",
+        "population": 44668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.11529676271461,
+          -17.70738423913449
+        ]
+      },
+      "properties": {
+        "country": "Mozambique 🇲🇿 (2024)",
+        "population": 34129693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.041569797411885,
+          17.215736022000506
+        ]
+      },
+      "properties": {
+        "country": "Mauritania 🇲🇷 (2024)",
+        "population": 5096520
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.21198210355439,
+          16.77483332428554
+        ]
+      },
+      "properties": {
+        "country": "Montserrat 🇲🇸 (2024)",
+        "population": 4405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.01166675256561,
+          14.631055828808766
+        ]
+      },
+      "properties": {
+        "country": "Martinique 🇲🇶 (2024)",
+        "population": 344575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.760951433645644,
+          -20.22431807124314
+        ]
+      },
+      "properties": {
+        "country": "Mauritius 🇲🇺 (2024)",
+        "population": 1272517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.44439348089565,
+          -14.192286358563953
+        ]
+      },
+      "properties": {
+        "country": "Malawi 🇲🇼 (2024)",
+        "population": 21376132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26955002252897,
+          3.805470195185295
+        ]
+      },
+      "properties": {
+        "country": "Malaysia 🇲🇾 (2024)",
+        "population": 35344242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17932649132193,
+          -12.792877347241545
+        ]
+      },
+      "properties": {
+        "country": "Mayotte 🇾🇹 (2024)",
+        "population": 321252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.123422163489774,
+          -19.939109578149537
+        ]
+      },
+      "properties": {
+        "country": "Namibia 🇳🇦 (2024)",
+        "population": 2998153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.20580208623127,
+          -21.862651815645776
+        ]
+      },
+      "properties": {
+        "country": "New Caledonia 🇳🇨 (2024)",
+        "population": 291268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.944565314678537,
+          13.944637957888734
+        ]
+      },
+      "properties": {
+        "country": "Niger 🇳🇪 (2024)",
+        "population": 26592438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.95596550366332,
+          -29.03136606049188
+        ]
+      },
+      "properties": {
+        "country": "Norfolk Island 🇳🇫 (2024)",
+        "population": 2201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.177671755886595,
+          8.647849596634398
+        ]
+      },
+      "properties": {
+        "country": "Nigeria 🇳🇬 (2024)",
+        "population": 230271141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88309149292488,
+          12.60267937323423
+        ]
+      },
+      "properties": {
+        "country": "Nicaragua 🇳🇮 (2024)",
+        "population": 6870070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.88809546628238,
+          -19.07142193846677
+        ]
+      },
+      "properties": {
+        "country": "Niue 🇳🇺 (2024)",
+        "population": 1815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.277115727565284,
+          52.09569371875825
+        ]
+      },
+      "properties": {
+        "country": "Netherlands 🇳🇱 (2024)",
+        "population": 18165553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.853608868696517,
+          60.98468998610298
+        ]
+      },
+      "properties": {
+        "country": "Norway 🇳🇴 (2024)",
+        "population": 5549778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.57408155518563,
+          27.60700442085719
+        ]
+      },
+      "properties": {
+        "country": "Nepal 🇳🇵 (2024)",
+        "population": 29673950
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9234247235025,
+          -0.524451727738283
+        ]
+      },
+      "properties": {
+        "country": "Nauru 🇳🇷 (2024)",
+        "population": 11904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.27735636594426,
+          -39.41093213333786
+        ]
+      },
+      "properties": {
+        "country": "New Zealand 🇳🇿 (2024)",
+        "population": 5194315
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.44087755736941,
+          22.865558468033807
+        ]
+      },
+      "properties": {
+        "country": "Oman 🇴🇲 (2024)",
+        "population": 5165143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.27393365627071,
+          30.445542487938624
+        ]
+      },
+      "properties": {
+        "country": "Pakistan 🇵🇰 (2024)",
+        "population": 249335589
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.30991013088969,
+          8.802495173472161
+        ]
+      },
+      "properties": {
+        "country": "Panama 🇵🇦 (2024)",
+        "population": 4487488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.10631282813878,
+          -25.06508889166323
+        ]
+      },
+      "properties": {
+        "country": "Pitcairn 🇵🇳 (2024)",
+        "population": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3486500035617,
+          -10.77659887169945
+        ]
+      },
+      "properties": {
+        "country": "Peru 🇵🇪 (2024)",
+        "population": 34034890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.4272209626995,
+          12.219418662089758
+        ]
+      },
+      "properties": {
+        "country": "Philippines 🇵🇭 (2024)",
+        "population": 115371046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6179237437209,
+          7.544288479675521
+        ]
+      },
+      "properties": {
+        "country": "Palau 🇵🇼 (2024)",
+        "population": 17707
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.14799402243605,
+          -6.153790251099561
+        ]
+      },
+      "properties": {
+        "country": "Papua New Guinea 🇵🇬 (2024)",
+        "population": 10483061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.31427894152643,
+          51.74655636763857
+        ]
+      },
+      "properties": {
+        "country": "Poland 🇵🇱 (2024)",
+        "population": 38711738
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3545271277245,
+          18.288052340867182
+        ]
+      },
+      "properties": {
+        "country": "Puerto Rico 🇵🇷 (2024)",
+        "population": 3244033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.59125085121237,
+          39.6257098614718
+        ]
+      },
+      "properties": {
+        "country": "Korea, Democratic People's Republic of 🇰🇵 (2024)",
+        "population": 26460313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.210109914156407,
+          39.67635454993799
+        ]
+      },
+      "properties": {
+        "country": "Portugal 🇵🇹 (2024)",
+        "population": 10430650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.707372732419174,
+          -25.253120089748588
+        ]
+      },
+      "properties": {
+        "country": "Paraguay 🇵🇾 (2024)",
+        "population": 6886766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.852179525708294,
+          31.73179551878055
+        ]
+      },
+      "properties": {
+        "country": "Palestine, State of 🇵🇸 (2024)",
+        "population": 5450425
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.13869926166922,
+          -17.278584835280753
+        ]
+      },
+      "properties": {
+        "country": "French Polynesia 🇵🇫 (2024)",
+        "population": 281466
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.45192165755841,
+          25.286097159538407
+        ]
+      },
+      "properties": {
+        "country": "Qatar 🇶🇦 (2024)",
+        "population": 3012452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.47162603088454,
+          -21.09146050375836
+        ]
+      },
+      "properties": {
+        "country": "Réunion 🇷🇪 (2024)",
+        "population": 876675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.263781515307986,
+          45.71313509190897
+        ]
+      },
+      "properties": {
+        "country": "Romania 🇷🇴 (2024)",
+        "population": 19067838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.44144001326887,
+          53.75876661711175
+        ]
+      },
+      "properties": {
+        "country": "Russian Federation 🇷🇺 (2024)",
+        "population": 145205580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.887765838549743,
+          -1.982844039942055
+        ]
+      },
+      "properties": {
+        "country": "Rwanda 🇷🇼 (2024)",
+        "population": 14106346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6512643205677,
+          23.646391000906494
+        ]
+      },
+      "properties": {
+        "country": "Saudi Arabia 🇸🇦 (2024)",
+        "population": 33661241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.17334760396041,
+          14.219304377362365
+        ]
+      },
+      "properties": {
+        "country": "Sudan 🇸🇩 (2024)",
+        "population": 50048572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.964754240361401,
+          14.533632324234597
+        ]
+      },
+      "properties": {
+        "country": "Senegal 🇸🇳 (2024)",
+        "population": 18288073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8371933684918,
+          1.3689444985811
+        ]
+      },
+      "properties": {
+        "country": "Singapore 🇸🇬 (2024)",
+        "population": 5812460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.71392225492466,
+          -15.943672664213052
+        ]
+      },
+      "properties": {
+        "country": "Saint Helena, Ascension and Tristan da Cunha 🇸🇭 (2024)",
+        "population": 5259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.993157388804118,
+          74.5083333713
+        ]
+      },
+      "properties": {
+        "country": "Svalbard and Jan Mayen 🇸🇯 (2024)",
+        "population": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.0075768198623,
+          -9.093075297286372
+        ]
+      },
+      "properties": {
+        "country": "Solomon Islands 🇸🇧 (2024)",
+        "population": 809539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.971806827984716,
+          8.384398719470449
+        ]
+      },
+      "properties": {
+        "country": "Sierra Leone 🇸🇱 (2024)",
+        "population": 8552904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0843026619422,
+          13.72081606087468
+        ]
+      },
+      "properties": {
+        "country": "El Salvador 🇸🇻 (2024)",
+        "population": 6323985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.460278940654161,
+          43.95171825257513
+        ]
+      },
+      "properties": {
+        "country": "San Marino 🇸🇲 (2024)",
+        "population": 33606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.38256227886955,
+          5.130664653066527
+        ]
+      },
+      "properties": {
+        "country": "Somalia 🇸🇴 (2024)",
+        "population": 18685826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.19891052279347,
+          46.81212072005305
+        ]
+      },
+      "properties": {
+        "country": "Saint Pierre and Miquelon 🇵🇲 (2024)",
+        "population": 5654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.594221766434327,
+          44.43062787639137
+        ]
+      },
+      "properties": {
+        "country": "Serbia 🇷🇸 (2024)",
+        "population": 6758334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71591380338702,
+          0.3724303050074
+        ]
+      },
+      "properties": {
+        "country": "Sao Tome and Principe 🇸🇹 (2024)",
+        "population": 233184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.28476423166865,
+          5.67496650390984
+        ]
+      },
+      "properties": {
+        "country": "Suriname 🇸🇷 (2024)",
+        "population": 631743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.114532237544715,
+          48.65474074261662
+        ]
+      },
+      "properties": {
+        "country": "Slovakia 🇸🇰 (2024)",
+        "population": 5519572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.867115783624095,
+          46.165213685750174
+        ]
+      },
+      "properties": {
+        "country": "Slovenia 🇸🇮 (2024)",
+        "population": 2119224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.538374472251505,
+          58.81049981154699
+        ]
+      },
+      "properties": {
+        "country": "Sweden 🇸🇪 (2024)",
+        "population": 10581077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.410249801122816,
+          -26.485662124362108
+        ]
+      },
+      "properties": {
+        "country": "Eswatini 🇸🇿 (2024)",
+        "population": 1236306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.06349643564028,
+          18.044946729645453
+        ]
+      },
+      "properties": {
+        "country": "Sint Maarten (Dutch part) 🇸🇽 (2024)",
+        "population": 43056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.48473979230187,
+          -4.624516395427142
+        ]
+      },
+      "properties": {
+        "country": "Seychelles 🇸🇨 (2024)",
+        "population": 129207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53929869218806,
+          34.9966159809596
+        ]
+      },
+      "properties": {
+        "country": "Syrian Arab Republic 🇸🇾 (2024)",
+        "population": 24174627
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.01544749839212,
+          21.72998819945743
+        ]
+      },
+      "properties": {
+        "country": "Turks and Caicos Islands 🇹🇨 (2024)",
+        "population": 46369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.27193752636592,
+          11.32555904851101
+        ]
+      },
+      "properties": {
+        "country": "Chad 🇹🇩 (2024)",
+        "population": 19870443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.044578243769457,
+          7.776888881085328
+        ]
+      },
+      "properties": {
+        "country": "Togo 🇹🇬 (2024)",
+        "population": 9412391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92298431085261,
+          14.006319424375384
+        ]
+      },
+      "properties": {
+        "country": "Thailand 🇹🇭 (2024)",
+        "population": 71689208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.16065456094137,
+          38.7187208460923
+        ]
+      },
+      "properties": {
+        "country": "Tajikistan 🇹🇯 (2024)",
+        "population": 10491706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.85001532166999,
+          -9.191651004830009
+        ]
+      },
+      "properties": {
+        "country": "Tokelau 🇹🇰 (2024)",
+        "population": 2453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.47715229846714,
+          38.94417124621221
+        ]
+      },
+      "properties": {
+        "country": "Turkmenistan 🇹🇲 (2024)",
+        "population": 7430702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.6504581008418,
+          -8.758311455282318
+        ]
+      },
+      "properties": {
+        "country": "Timor-Leste 🇹🇱 (2024)",
+        "population": 1391724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.97743082456466,
+          -20.68640649945965
+        ]
+      },
+      "properties": {
+        "country": "Tonga 🇹🇴 (2024)",
+        "population": 104379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.37939966456594,
+          10.520269403862427
+        ]
+      },
+      "properties": {
+        "country": "Trinidad and Tobago 🇹🇹 (2024)",
+        "population": 1505754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.057333248051995,
+          35.77568207569517
+        ]
+      },
+      "properties": {
+        "country": "Tunisia 🇹🇳 (2024)",
+        "population": 12240260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85603967038881,
+          39.26877430225374
+        ]
+      },
+      "properties": {
+        "country": "Türkiye 🇹🇷 (2024)",
+        "population": 87371674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.63161579346772,
+          -8.041015917843106
+        ]
+      },
+      "properties": {
+        "country": "Tuvalu 🇹🇻 (2024)",
+        "population": 9726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.93872072674645,
+          24.22494925396669
+        ]
+      },
+      "properties": {
+        "country": "Taiwan, Province of China 🇹🇼 (2024)",
+        "population": 23264287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.12141738746781,
+          -5.498708064671846
+        ]
+      },
+      "properties": {
+        "country": "Tanzania, United Republic of 🇹🇿 (2024)",
+        "population": 67578209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.25144812705728,
+          0.958734734960912
+        ]
+      },
+      "properties": {
+        "country": "Uganda 🇺🇬 (2024)",
+        "population": 49332093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.497921815886315,
+          48.80303442963887
+        ]
+      },
+      "properties": {
+        "country": "Ukraine 🇺🇦 (2024)",
+        "population": 37441260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.26115222544834,
+          -34.05369434599699
+        ]
+      },
+      "properties": {
+        "country": "Uruguay 🇺🇾 (2024)",
+        "population": 3387478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.60587651458894,
+          37.26359710784369
+        ]
+      },
+      "properties": {
+        "country": "United States 🇺🇸 (2024)",
+        "population": 344479572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.52278828249757,
+          40.545018706165905
+        ]
+      },
+      "properties": {
+        "country": "Uzbekistan 🇺🇿 (2024)",
+        "population": 36010453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.209561695446084,
+          13.168105219571059
+        ]
+      },
+      "properties": {
+        "country": "Saint Vincent and the Grenadines 🇻🇨 (2024)",
+        "population": 100966
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.84093966449805,
+          9.533227564358889
+        ]
+      },
+      "properties": {
+        "country": "Venezuela, Bolivarian Republic of 🇻🇪 (2024)",
+        "population": 28350925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.59398424499004,
+          18.437598392715863
+        ]
+      },
+      "properties": {
+        "country": "Virgin Islands, British 🇻🇬 (2024)",
+        "population": 39327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.84915173916117,
+          18.056946667300167
+        ]
+      },
+      "properties": {
+        "country": "Virgin Islands, U.S. 🇻🇮 (2024)",
+        "population": 85303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39162038622655,
+          15.861180071746736
+        ]
+      },
+      "properties": {
+        "country": "Viet Nam 🇻🇳 (2024)",
+        "population": 100675292
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.0762215926238,
+          -16.90860766923706
+        ]
+      },
+      "properties": {
+        "country": "Vanuatu 🇻🇺 (2024)",
+        "population": 324085
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -176.19740606714421,
+          -13.2850968694585
+        ]
+      },
+      "properties": {
+        "country": "Wallis and Futuna 🇼🇫 (2024)",
+        "population": 11319
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.93357434070006,
+          -13.817852439019106
+        ]
+      },
+      "properties": {
+        "country": "Samoa 🇼🇸 (2024)",
+        "population": 217342
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.895057890826227,
+          42.539147749835216
+        ]
+      },
+      "properties": {
+        "country": "Kosovo 🇽🇰 (2024)",
+        "population": 1690921
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.41439918837388,
+          14.748471788684911
+        ]
+      },
+      "properties": {
+        "country": "Yemen 🇾🇪 (2024)",
+        "population": 39987261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.621968625031666,
+          -28.24376881276484
+        ]
+      },
+      "properties": {
+        "country": "South Africa 🇿🇦 (2024)",
+        "population": 63627884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.576074368484026,
+          -13.589837459523743
+        ]
+      },
+      "properties": {
+        "country": "Zambia 🇿🇲 (2024)",
+        "population": 21017547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.62146944495957,
+          -18.653797305926275
+        ]
+      },
+      "properties": {
+        "country": "Zimbabwe 🇿🇼 (2024)",
+        "population": 16478384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.569818999361395,
+          7.205819429518628
+        ]
+      },
+      "properties": {
+        "country": "South Sudan 🇸🇸 (2024)",
+        "population": 11819853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.189995046696204,
+          21.880278548889066
+        ]
+      },
+      "properties": {
+        "country": "All Countries 🌏 (2024)",
+        "population": 8126998252
+      }
+    }
+  ]
+}
