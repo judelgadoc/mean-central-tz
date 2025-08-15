@@ -53,6 +53,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 
+popLayer = L.tileLayer('assets/tiles/{z}/{x}/{y}.png',  {tms: 1, attribution: "", minZoom: 0, maxZoom: 7});
+
+
+
+
 const geojsonCache = {};
 // Load all GeoJSON files (2015–2030)
 Promise.all(
@@ -140,6 +145,7 @@ timezones = L.timezones.bindPopup(function (layer) {
 L.control.layers(null, {
     "Global Population Center": allCountriesTimeLayer,
     "National Population Centers": otherCountriesTimeLayer,
-    "Timezones": timezones
+    "Timezones": timezones,
+    "Population Density": popLayer,
 }).addTo(map);
 });
